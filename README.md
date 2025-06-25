@@ -21,7 +21,7 @@ However, the landscape in the 2020s has become more complex. Events such as the 
 By applying contemporary NLP tools to these reports, the project aims to contribute a data-driven perspective on how energy companies are positioning their ESG commitments in a rapidly evolving global environment.
 
 
-## **Importance**
+## **Importance:**
 
 Energy firms have substantial influence in shaping public policy, investor priorities, and sustainability narratives. Understanding how they communicate these values over time offers insight into both corporate strategy and the broader evolution of ESG and sustainability discourse in the U.S. energy sector.
 
