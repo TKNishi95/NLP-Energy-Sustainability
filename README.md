@@ -1,4 +1,4 @@
-# NLP-Energy-Sustainability-Project
+# Evolution of ESG and Sustainability Topics in the Energy Sector
 
 The goal of this project is to utilize contemporary Topic Modeling and Name Entity Recognition techniques to analyze sustainability reports published between 2018 and 2024 by major US energy firms (including: Chevron, Oxy, Haliburton, ExxonMobil). 
 
